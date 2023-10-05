@@ -1,0 +1,17 @@
+{
+    margin: 10px;
+    padding: 10px;
+}
+
+body{
+    color: none;
+}
+.menu{
+   color: #fff;
+}
+
+.menu.h1{
+    font-size: 10px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
